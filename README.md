@@ -133,14 +133,10 @@
       <a href="https://api.whatsapp.com/send?phone=919579871856text=welcome+to+my+whatsapp" >
       <img align="center" alt="Mohit Nathwani | LinkedIn" width="30em" src="https://img.icons8.com/pastel-glyph/64/22C3E6/whatsapp--v2.png" />
       </a> &nbsp;&nbsp;
-      
       <br>
     </div>
    </td>
   </tr>
 </table> 
 
-<!---
-Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile..
-You can click the Preview link to take a look at your changes.
---->
+
