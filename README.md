@@ -113,7 +113,7 @@
       <h2><b>How to Reach Me</b></h2>
       <br>
       <p>Open to Collaboration 
-        <br>Connect With me.
+        <br>Connect With Me.
       </p>
       <br>
       <a href="https://www.instagram.com/mohit_nathwani/" target="_blank">
