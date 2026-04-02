@@ -18,13 +18,13 @@
         <p> 
           I majored in Computer Science 
           <br>
-          Former SDE intern at ConnectWise
+          SDE intern at SAP
           <br>
-          BLockchain Enthusiast, Etherum, Solidity.
+          HLD, LLD, DSA
           <br>
-          Hands on experience with Salesforce.com 
+          
           <br>
-          and SalesforceAdmin
+          
         </p>
       </blockquote>
        <ul>
